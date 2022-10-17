@@ -1,0 +1,15 @@
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.csproj.AssemblyReference.cache
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.AssemblyInfoInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.AssemblyInfo.cs
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.csproj.CoreCompileInputs.cache
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\bin\Debug\net6.0\AdvFight.exe
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\bin\Debug\net6.0\AdvFight.deps.json
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\bin\Debug\net6.0\AdvFight.runtimeconfig.json
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\bin\Debug\net6.0\AdvFight.dll
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\bin\Debug\net6.0\AdvFight.pdb
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.dll
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\refint\AdvFight.dll
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.pdb
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\AdvFight.genruntimeconfig.cache
+C:\Users\torell.jordan\Documents\Prog2\AdvFight\AdvFight\obj\Debug\net6.0\ref\AdvFight.dll

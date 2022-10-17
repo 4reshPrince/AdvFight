@@ -1,44 +1,49 @@
 ﻿using System;
 
 Fighter hero = new Fighter();
-hero.name = "HERO";
+hero.name = "Magnus Chase";
 hero.weapon = new Weapon();
-hero.weapon.name = "Dark sword";
+hero.weapon.name = "Sword of Summer";
 
 Fighter villain = new Fighter();
-villain.name = "VILLAIN";
+villain.name = "Ares";
 villain.weapon = new Weapon();
-villain.weapon.name = "Bright sword";
+villain.weapon.name = "Ares Sword";
 
 
 Random generator = new Random();
 
+Console.WriteLine("----- ===== Welcome To Fight Round ===== -----");
+Console.WriteLine("----- ===== Press button to Start ===== -----");
+Console.ReadKey();
+Console.Clear();
+
 while (hero.hp > 0 && villain.hp > 0)
 {
-  Console.WriteLine("\n----- ===== NY RUNDA ===== -----");
+  Console.WriteLine("\n----- ===== New Round ===== -----");
   Console.WriteLine($"{hero.name}: {hero.hp} || {villain.name}: {villain.hp}\n");
 
   hero.Attack(villain);
   villain.Attack(hero);
 
-  Console.WriteLine("Tryck på valfri knapp för att fortsätta.");
+  Console.WriteLine("Press button to continue. ");
   Console.ReadKey();
 }
 
-Console.WriteLine("\n----- ===== STRIDEN ÄR SLUT ===== -----");
+Console.WriteLine("\n----- ===== Fight Over ===== -----");
 
 if (hero.hp == 0 && villain.hp == 0)
 {
-  Console.WriteLine("OAVGJORT");
+  Console.WriteLine("Draw");
 }
 else if (hero.hp == 0)
 {
-  Console.WriteLine($"{villain.name} vann!");
+  Console.WriteLine($"{villain.name} Winner!");
 }
 else
 {
-  Console.WriteLine($"{hero.name} vann!");
+  Console.WriteLine($"{hero.name} Winner!");
 }
 
-Console.WriteLine("Tryck på valfri knapp för att avsluta.");
+Console.WriteLine("Press button to Exit. ");
 Console.ReadKey();
